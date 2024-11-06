@@ -1,3 +1,9 @@
+//Use these,
+//Arduino Mega board, QTR8A sensor panel, L298N motor driver
+
+
+
+
 const int motorLeftPin1 = 5;
 const int motorLeftPin2 = 6;
 const int motorRightPin1 = 9;
